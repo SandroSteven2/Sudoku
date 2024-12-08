@@ -7,5 +7,7 @@ Un proyecto diseñado para dar un comienzo en el mundo de la programación.
 * Crear un código funcional con algoritmos robustos para asegurar la eficiencia del programa.
 * Someter el programa a una serie de pruebas con el fin de asegurar la calidad del mismo y facilitar futuras actualizaciones y mantenimiento.
 ## Documentación del proyecto
-Consultar en:
+Documentación:
 https://unipe-my.sharepoint.com/:w:/g/personal/sandro_sanchez_f_uni_pe/EQbOTLkmpwlFkaW6jQOMtBoBNsUDLpv8EkWz4l717ogOzw?e=TWX5Gz
+Presentación:
+https://unipe-my.sharepoint.com/:p:/g/personal/sandro_sanchez_f_uni_pe/EUfxk-eqMMBIjgG-VXGwX_wBLgUrrOUFVt5uXTMlhNrSMw?e=YwITIC
