@@ -8,7 +8,7 @@ Un proyecto diseñado para dar un comienzo en el mundo de la programación.
 * Someter el programa a una serie de pruebas con el fin de asegurar la calidad del mismo y facilitar futuras actualizaciones y mantenimiento.
 ## Documentación del proyecto
 Documentación:
-https://unipe-my.sharepoint.com/:w:/g/personal/sandro_sanchez_f_uni_pe/EQbOTLkmpwlFkaW6jQOMtBoBNsUDLpv8EkWz4l717ogOzw?e=TWX5Gz
+https://unipe-my.sharepoint.com/:b:/g/personal/sandro_sanchez_f_uni_pe/EZ-VG9AdtLxJoyuCNSlqYsIBApH1IbaHWWZ_tnVCFACI7Q?e=IfDv6b
 
 Presentación:
-https://unipe-my.sharepoint.com/:p:/g/personal/sandro_sanchez_f_uni_pe/EUfxk-eqMMBIjgG-VXGwX_wBLgUrrOUFVt5uXTMlhNrSMw?e=YwITIC
+https://unipe-my.sharepoint.com/:b:/g/personal/sandro_sanchez_f_uni_pe/EY42sZtcCotKtDlK7ZnL1G0BLIDMmvgYOU5B_fOFbKjrsg?e=eBnLGi
